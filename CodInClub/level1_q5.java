@@ -1,5 +1,6 @@
-public class level1_q5 {
-    public static void main(String[] args) {
+package CodInClub;
+
+public class level1_q5 {public static void main(String[] args) {
         int pens = 14;
         int students = 3;
 
@@ -9,4 +10,5 @@ public class level1_q5 {
         System.out.println("The Pen Per Student is " + perStudent +
                            " and the remaining pen not distributed is " + remaining);
     }
+    
 }
